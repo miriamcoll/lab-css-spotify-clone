@@ -6,3 +6,47 @@ Green: #00B172
 White: #FFF
 
 */
+nav {
+    position: fixed;
+    background-color: blueviolet;
+    padding: 0cap;
+}
+.spotify-logo {
+    max-width: 100px;
+    float: left;
+}
+.top-links {
+    float: inline-end;
+    display: flex;
+    flex-direction: row;
+}
+.landing {
+    max-width: 100%;
+}
+.container {
+    background-color: blue;
+}
+.p1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
